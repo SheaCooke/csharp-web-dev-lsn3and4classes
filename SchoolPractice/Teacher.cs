@@ -1,8 +1,12 @@
 ﻿using System;
-
-public class Class1
+namespace SchoolPractice
 {
-	public Class1()
+
+	public class Teacher
 	{
+		public Teacher()
+		{
+		}
 	}
+
 }
